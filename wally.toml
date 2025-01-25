@@ -1,0 +1,11 @@
+[package]
+name = "jiatanfan/objtoeditablemesh"
+description="An easy way to convert OBJ files to EditableMeshes."
+version = "0.1.0"
+license="MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+include = ["src", "default.project.json", "LICENSE"]
+
+[dependencies]
